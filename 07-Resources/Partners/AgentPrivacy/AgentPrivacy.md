@@ -36,6 +36,7 @@ As the agentic expression of the First Person Project, agentprivacy turns first-
 | [strategic-rationale.md](strategic-rationale.md) | Strategic rationale — why this approach, why now, comparison with alternatives, honest strengths/weaknesses |
 | [tailscale-alignment-assessment.md](tailscale-alignment-assessment.md) | TailScale alignment — where it maps to swordsman technology, where it falls short, recommended architecture |
 | [open-integrity-setup-guide.md](open-integrity-setup-guide.md) | Open Integrity setup — inception commits, signed commit policy, `did:repo:` identifiers for Improbable-Collaborations repos |
+| [INSTRUCTIONAL_CONVERGENCE_CONTEXT.md](INSTRUCTIONAL_CONVERGENCE_CONTEXT.md) | Full context record — research method, convergence findings, architecture mapping, decisions made, and reference for future contributors and agents |
 
 ## External References
 
