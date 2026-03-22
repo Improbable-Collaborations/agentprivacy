@@ -34,7 +34,7 @@ This maps directly onto what the Fabulous Machine already describes. You arrived
 - **This week:** I'll review and organise these docs, then commit them via my coding agent
 - **March 23 sprint:** Privacy track input (remote, TBC). TailScale, Open Integrity setup, data flow mapping
 - **March 26 (Thursday):** The compression/decompression demo David asked for. Fresh Claude, screen recording, everyone welcome to record
-- **When I'm back in St Albans:** Setting up my local compute as a home base node — Obsidian, Claude Code, spellweb running on my own infrastructure, becoming a live node on the home lab mesh
+- **Local compute home base:** Setting up my machine as a home base node — Obsidian, Claude Code, spellweb running on my own infrastructure, becoming a live node on the home lab mesh
 
 ## One Thing to Do Now
 

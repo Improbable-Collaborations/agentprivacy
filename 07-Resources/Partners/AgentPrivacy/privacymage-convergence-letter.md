@@ -121,7 +121,7 @@ The Ship-Announcements repo processes planning data through OpenAI and ElevenLab
 
 ### Local Compute and Home Base
 
-When I'm back in St Albans, I will integrate the agentprivacy stack — Obsidian vault, Claude Code, spellweb — on my local compute. This becomes a strong home base for the project: a sovereign node on the home lab mesh, running the dual-agent model on real infrastructure, demonstrating the architecture by using it daily.
+When my local compute home base is online, I will integrate the agentprivacy stack — Obsidian vault, Claude Code, spellweb — on my own hardware. This becomes a strong home base for the project: a sovereign node on the home lab mesh, running the dual-agent model on real infrastructure, demonstrating the architecture by using it daily.
 
 The spellweb (interactive knowledge graph of the full agentprivacy corpus) becomes a live demonstration of how the Fabulous Machine's knowledge layer can work: navigable, searchable, privacy-preserving, running on owned infrastructure.
 

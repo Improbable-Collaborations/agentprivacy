@@ -28,7 +28,7 @@ JS/Node web app that reads Planning-Sprint and generates voice-narrated briefing
 - [ ] TailScale tech stack assessment ✅ (tailscale-alignment-assessment.md)
 - [ ] Connect Sam (Culture Vault) with Atlas for quest-based art collaboration
 - [ ] Grant access / clone Obsidian vault from GitHub
-- [ ] Integrate agentprivacy Obsidian + Claude Code + spellweb on local compute when back in St Albans
+- [ ] Integrate agentprivacy Obsidian + Claude Code + spellweb on local compute (home base stack)
 
 ---
 
@@ -83,7 +83,7 @@ JS/Node web app that reads Planning-Sprint and generates voice-narrated briefing
 **3. Compression/decompression demo.** (Thu 26 March)
 Fresh Claude, screen record, demonstrate proverb→expansion.
 
-**4. Set up local compute home base.** (When back in St Albans)
+**4. Set up local compute home base.** (When the stack is on dedicated local hardware)
 Integrate agentprivacy Obsidian + Claude Code + spellweb on local infrastructure. Become a sovereign node on the home lab mesh. Demonstrate the architecture by using it daily.
 
 **5. Software sprint input.** (Before March 23)
@@ -165,7 +165,7 @@ In `04-Artifacts/Working-Documents/Documentation-Sprint-Areas.md`, update "Mitch
 |------|-------|--------|
 | **2026-03-19** (Today) | Review this document | Approve docs for commit |
 | **2026-03-23** | Software Sprint begins | Privacy track input, TailScale |
-| **2026-03-25** | Back in St Albans | Set up local compute home base |
+| **2026-03-25** | Local compute ready | Set up local compute home base |
 | **2026-03-26** (Thu) | Compression demo | Fresh Claude, screen record |
 | **2026-03-27** (Fri) | Gustav stakeholder mapping | Privacy stakeholder input |
 | **2026-04-22** | Earth Day / RSA London | Identity layer specified |

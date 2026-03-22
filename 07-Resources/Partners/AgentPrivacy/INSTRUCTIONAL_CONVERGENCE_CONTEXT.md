@@ -286,7 +286,7 @@ After this contribution is committed and pushed:
 3. **Review Protocols folder** — the MOU, Onboarding, and Time-Banking protocols are where IEEE 7012 templates plug in next. This is medium-term work.
 4. **Pan-Galactic Monitor** — Max asked for thoughts on mapping the trust graph layer on top. Review on Telegram.
 5. **Compression/decompression demo** — March 26. Fresh Claude, screen recorded. Demonstrates the spellbook methodology: start with a proverb, expand to full architecture, verify nothing was lost.
-6. **Local compute home base** — when back in St Albans: clone all repos, set up Obsidian vault pointed at Planning-Sprint, configure Claude Code (.claude directory already exists), deploy spellweb locally, become the first sovereign home base node on the mesh.
+6. **Local compute home base** — when local compute is available: clone all repos, set up Obsidian vault pointed at Planning-Sprint, configure Claude Code (.claude directory already exists), deploy spellweb locally, become the first sovereign home base node on the mesh.
 7. **Live code session with Max** — proposed during the March 19 call. Discord, shared audio channel, work on own things in parallel.
 
 ---
